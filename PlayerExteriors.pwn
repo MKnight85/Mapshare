@@ -5339,7 +5339,7 @@ public OnFilterScriptInit()
 	CreateDynamicObject(3262, 2374.00, 304.38, 19.75,   0.00, 0.00, 267.92);
 	CreateDynamicObject(3802, 2375.57, 271.01, 28.88,   0.00, 0.00, 270.00);
 
-	//Daniel Saunders Custom Coding Project [Order ID:  45970]UPDATED - Owned by other person now.
+	//Daniel Saunders Custom Coding Project [Order ID:45970] UPDATED 1/16/17 - Owned by Oliver Queen (Angel Pine Compound) - MaxKnight
 	CreateDynamicObject(8661, -2281.80, -2768.60, 20.40,   0.00, 0.00, 65.99, .worldid = 0, .streamdistance = 200);
 	CreateDynamicObject(8661, -2298.00, -2805.00, 20.40,   0.00, 0.00, 65.99, .worldid = 0, .streamdistance = 200);
 	CreateDynamicObject(9241, -2318.00, -2835.00, 22.16,   0.00, 0.00, 155.99, .worldid = 0, .streamdistance = 200);
