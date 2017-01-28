@@ -191,30 +191,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(18663, 1920.55383, -1901.85278, 15.37890,   0.00000, 0.00000, -180.00000, .worldid = 0, .streamdistance = 150);
 	CreateDynamicObject(2677, 1878.68018, -1898.44385, 14.29700,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
 	
-	// Willowfield Trese HQ - Exterior - Added Dec 12 2016 - MaxKnight //
-	CreateDynamicObject(14524, 2045.23853, -1904.99854, 13.07961,   0.00000, 0.00000, -90.00000, .streamdistance = 150);
-	CreateDynamicObject(1362, 2046.03491, -1898.63342, 13.11312,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
-	CreateDynamicObject(3461, 2046.02197, -1898.64783, 11.66485,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
-	CreateDynamicObject(8613, 2049.83569, -1917.06995, 15.56582,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
-	CreateDynamicObject(19455, 2042.75916, -1913.63635, 18.86970,   0.00000, 90.00000, 90.00000, .streamdistance = 150);
-	CreateDynamicObject(2236, 2049.14380, -1899.91602, 12.54650,   0.00000, 0.00000, -15.00000, .streamdistance = 150);
-	CreateDynamicObject(3594, 2069.06128, -1904.89905, 13.00096,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
-	CreateDynamicObject(2676, 2052.04785, -1903.08643, 12.66067,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
-	CreateDynamicObject(910, 2045.55090, -1910.60706, 13.75730,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
-	CreateDynamicObject(913, 2054.82129, -1897.65271, 13.35458,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
-	CreateDynamicObject(5078, 2040.49109, -1885.90381, 14.31390,   0.00000, 0.00000, 179.50000, .streamdistance = 150);
-	CreateDynamicObject(5078, 2028.70898, -1911.75989, 13.28836,   0.00000, 0.00000, 43.50000, .streamdistance = 150);
-	CreateDynamicObject(2672, 2047.17944, -1900.67078, 12.84935,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
-	CreateDynamicObject(2858, 2049.75684, -1899.48816, 13.05430,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
-	CreateDynamicObject(19865, 2051.06396, -1922.21643, 12.01860,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
-	CreateDynamicObject(19865, 2046.04309, -1922.21643, 12.01856,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
-	CreateDynamicObject(1349, 2048.87329, -1907.82068, 13.15090,   0.00000, 0.00000, 50.00000, .streamdistance = 150);
-	CreateDynamicObject(19865, 2062.76904, -1922.26514, 12.01860,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
-	CreateDynamicObject(19865, 2067.76782, -1922.26514, 12.01860,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
-	CreateDynamicObject(19865, 2069.12012, -1922.26318, 12.01660,   1.00000, 0.00000, 90.00000, .streamdistance = 150);
-	CreateDynamicObject(1415, 2071.13330, -1921.16711, 12.54820,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
-	CreateDynamicObject(5078, 2060.58740, -1908.28418, 14.31390,   0.00000, 0.00000, 0.50000, .streamdistance = 150);
-
 	// El Mohagreen - Exterior HQ - MaxKnight
 	CreateDynamicObject(8614, 1733.98560, -2054.36963, 18.32542,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
 	CreateDynamicObject(5130, 1745.39185, -2059.59790, 13.70927,   0.00000, 0.00000, 316.25818, .streamdistance = 150);
@@ -1830,27 +1806,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(1978, 530.38232, 2002.30078, -59.30000,   0.00000, 0.00000, 0.00000, .worldid = 1310);
 	CreateDynamicObject(1979, 530.19159, 2003.64246, -59.32400,   0.00000, 0.00000, 0.00000, .worldid = 1310);
 
-	// Ballas Glen Park HQ
-	CreateDynamicObject(3640, 1895.42456, -1151.71985, 27.56409,   0.00000, 0.00000, 180.00000, .streamdistance = 150.0);
-	CreateDynamicObject(3639, 1882.98596, -1166.30688, 27.20247,   0.00000, 0.00000, -90.00000, .streamdistance = 150.0);
-	CreateDynamicObject(18766, 1892.60754, -1148.15735, 22.88320,   90.00000, 0.00000, 0.00000, .streamdistance = 150.0);
-	CreateDynamicObject(18766, 1879.37354, -1163.61914, 22.50522,   90.00000, 0.00000, 90.30301, .streamdistance = 150.0);
-	CreateDynamicObject(1432, 1878.33630, -1162.80249, 23.10454,   0.00000, 0.00000, 305.07407, .streamdistance = 150.0);
-	CreateDynamicObject(3642, 1881.99414, -1151.62646, 25.12647,   0.00000, 0.00000, 179.44244, .streamdistance = 150.0);
-	CreateDynamicObject(18666, 1885.06555, -1145.66919, 26.48307,   0.00000, 0.00000, 269.59903, .streamdistance = 150.0);
-	CreateDynamicObject(1756, 1876.35107, -1171.41101, 22.79698,   0.00000, 0.00000, 269.56363, .streamdistance = 150.0);
-	CreateDynamicObject(1761, 1879.27332, -1145.09167, 22.76768,   0.00000, 0.00000, 179.40585, .streamdistance = 150.0);
-	CreateDynamicObject(714, 1901.56567, -1175.94312, 22.00798,   0.00000, 0.00000, 289.04886, .streamdistance = 150.0);
-	CreateDynamicObject(3594, 1890.53955, -1171.19153, 23.49367,   0.00000, 0.00000, 355.11136, .streamdistance = 150.0);
-	CreateDynamicObject(18667, 1880.78186, -1173.61890, 25.85870,   0.00000, 0.00000, 90.00000, .streamdistance = 150.0);
-	CreateDynamicObject(739, 1880.66541, -1181.93469, -7.09253,   0.00000, 0.00000, 0.00000, .streamdistance = 150.0);
-	CreateDynamicObject(1432, 1900.88660, -1147.33057, 24.20351,   0.00000, 0.00000, 0.00000, .streamdistance = 150.0);
-	CreateDynamicObject(647, 1905.10095, -1147.40088, 24.77854,   0.00000, 0.00000, 0.00000, .streamdistance = 150.0);
-	CreateDynamicObject(647, 1906.03540, -1156.04321, 24.16318,   0.00000, 0.00000, 0.00000, .streamdistance = 150.0);
-	CreateDynamicObject(647, 1903.85632, -1151.30481, 24.10892,   0.00000, 0.00000, 0.00000, .streamdistance = 150.0);
-	CreateDynamicObject(1297, 1901.24878, -1140.16235, 26.21090,   356.85840, 0.00000, -90.00000, .streamdistance = 150.0);
-	CreateDynamicObject(1297, 1887.15503, -1140.21143, 26.21090,   356.85840, 0.00000, -90.00000, .streamdistance = 150.0);
-	CreateDynamicObject(1297, 1871.33386, -1156.87878, 26.21090,   356.85840, 0.00000, 0.00000, .streamdistance = 150.0);
 
 	
 
