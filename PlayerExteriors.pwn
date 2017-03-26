@@ -4,6 +4,38 @@
 public OnFilterScriptInit()
 
 {
+	// Michael Oldman - Order ID 784 - Flag ID 98344 - MaxKnight
+	CreateDynamicObject(19531, -2771.31055, -2112.07104, 0.60400,   0.00000, 0.00000, 30.06000, .streamdistance = 200);
+	CreateDynamicObject(3749, -2683.37183, -2210.02148, 6.40000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(987, -2674.13525, -2205.65308, 0.60000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(987, -2663.73779, -2199.67651, 0.60000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(987, -2701.19604, -2222.47559, 0.60000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(987, -2711.53345, -2228.50366, 0.60000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(987, -2722.00659, -2234.42236, 0.60000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(987, -2732.43896, -2240.32642, 0.60000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(987, -2742.80127, -2246.36255, 0.60000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(987, -2753.24927, -2252.34961, 0.60000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(987, -2759.85132, -2256.16284, 0.60000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(987, -2653.34424, -2193.71899, 0.60000,   0.00000, 0.00000, -30.00000, .streamdistance = 200);
+	CreateDynamicObject(11490, -2759.22168, -2232.52026, 1.00000,   0.00000, 0.00000, 120.00000, .streamdistance = 200);
+	CreateDynamicObject(10830, -2784.21655, -2165.19360, 8.60000,   0.00000, 0.00000, -15.00000, .streamdistance = 200);
+	CreateDynamicObject(6965, -2707.90967, -2208.65161, 4.30000,   0.00000, 0.00000, 0.00000, .streamdistance = 200);
+	CreateDynamicObject(11491, -2749.75122, -2226.98950, 2.25000,   0.00000, 0.00000, 120.00000, .streamdistance = 200);
+	CreateDynamicObject(4199, -2762.48145, -2187.68018, 2.60000,   0.00000, 0.00000, -60.00000, .streamdistance = 200);
+	CreateDynamicObject(12990, -2796.93237, -2221.46655, 0.72000,   0.00000, 0.00000, -60.47990, .streamdistance = 200);
+	CreateDynamicObject(1368, -2662.50171, -2179.80273, 1.30000,   0.00000, 0.00000, 120.00000, .streamdistance = 200);
+	CreateDynamicObject(1368, -2666.92334, -2172.08032, 1.30000,   0.00000, 0.00000, 120.00000, .streamdistance = 200);
+	CreateDynamicObject(1368, -2671.06812, -2164.74072, 1.30000,   0.00000, 0.00000, 120.00000, .streamdistance = 200);
+	CreateDynamicObject(5837, -2686.78687, -2219.32471, 1.95153,   0.00000, 0.00000, -236.87988, .streamdistance = 200);
+	CreateDynamicObject(19129, -2696.16943, -2142.27856, 0.59000,   0.00000, 0.00000, 30.36000, .streamdistance = 200);
+	CreateDynamicObject(14391, -2705.08008, -2129.63477, 1.10000,   0.00000, 0.00000, 120.00000, .streamdistance = 200);
+	CreateDynamicObject(19531, -2732.84180, -2178.58838, 0.60000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
+	CreateDynamicObject(8171, -2748.46851, -2138.05103, 0.60000,   0.00000, 0.00000, 29.94000, .streamdistance = 200);
+	CreateDynamicObject(6874, -2805.52954, -2125.36475, 0.10000,   0.00000, 0.00000, 208.14020, .streamdistance = 200);
+	CreateDynamicObject(19909, -2823.50122, -2097.93457, 0.70000,   0.00000, 0.00000, -60.90004, .streamdistance = 200);
+	CreateDynamicObject(14537, -2686.32690, -2161.76978, 2.55000,   0.00000, 0.00000, 28.20000, .streamdistance = 200);
+	CreateDynamicObject(16151, -2785.08618, -2195.20581, 0.58863,   0.00000, 0.00000, 120.06000, .streamdistance = 200);
+
 	// Achilles Titterton - DBID:9086 - Order/Flag ID: 97327 PENDING - MaxKnight //
 	CreateDynamicObject(18981, 2060.82031, -2155.73511, 6.29020,   0.00000, 0.00000, 90.00000, .worldid = 0,  .streamdistance = 150);
 	CreateDynamicObject(18981, 2029.13794, -2155.82349, 6.29020,   0.00000, 0.00000, 90.00000, .worldid = 0,  .streamdistance = 150);
