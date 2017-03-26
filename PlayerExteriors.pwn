@@ -245,10 +245,12 @@ public OnFilterScriptInit()
 	CreateDynamicObject(8674, 2274.76538, -2136.94800, 13.69400,   0.00000, 0.00000, -135.87320, .streamdistance = 200);
 	CreateDynamicObject(8674, 2274.81226, -2129.70361, 13.69400,   0.00000, 0.00000, -44.93050, .streamdistance = 200);
 	CreateDynamicObject(8674, 2267.53369, -2122.41748, 13.69400,   0.00000, 0.00000, -44.93050, .streamdistance = 200);
-	CreateDynamicObject(7920, 2249.92114, -2090.31665, 13.90201,   0.00000, 0.00000, -316.00000, .streamdistance = 200);
-	CreateDynamicObject(7920, 2243.63818, -2096.61499, 13.90201,   0.00000, 0.00000, -316.00000, .streamdistance = 200);
-	CreateDynamicObject(7920, 2264.26758, -2104.53564, 13.90201,   0.00000, 0.00000, -316.00000, .streamdistance = 200);
 	CreateDynamicObject(3626, 2244.27148, -2159.47705, 14.04024,   0.00000, 0.00000, 135.00000, .streamdistance = 200);
+	CreateDynamicObject(18980, 2264.08154, -2118.94971, 2.69834,   0.00000, 0.00000, 45.00000, .streamdistance = 200);
+	CreateDynamicObject(18980, 2278.16211, -2133.26294, 2.69834,   0.00000, 0.00000, 45.00000, .streamdistance = 200);
+	CreateDynamicObject(18980, 2257.32837, -2125.22339, 2.69834,   0.00000, 0.00000, 45.00000, .streamdistance = 200);
+	CreateDynamicObject(6400, 2255.24854, -2136.41772, 13.76970,   0.00000, 0.00000, -45.26900, .streamdistance = 200);
+
 
 	// James Paradis - DBID:ID: 98425 - Order Id:#675 - custom exterior - Approved by Justice - Max Knight
 	CreateDynamicObject(19457, 1200.63013, -976.52509, 42.48750,   0.00000, 90.00000, 90.00000, .worldid = 0,  .streamdistance = 150);
