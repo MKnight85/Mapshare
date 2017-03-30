@@ -1,7 +1,10 @@
 #include <streamer>
 
 public OnFilterScriptInit()
-{
+{	
+
+	// Paste new mapping here //
+	
 	// Sacra Corona Unita - Exterior - Added 4 FEB 2017 - MaxKnight //
 	CreateDynamicObject(785, -392.39063, -2006.26563, 23.58594,   0.00000, 0.00000, 0.00000, .worldid = 0,  .streamdistance = 150);
 	CreateDynamicObject(19890, -220.88000, -1742.41040, -0.54020,   0.00000, 180.00000, -24.00000, .worldid = 0,  .streamdistance = 150);
