@@ -4,6 +4,9 @@
 public OnFilterScriptInit()
 
 {
+	
+
+
 	// Michael Oldman - Order ID 784 - Flag ID 98344 - MaxKnight
 	CreateDynamicObject(19531, -2771.31055, -2112.07104, 0.60400,   0.00000, 0.00000, 30.06000, .streamdistance = 200);
 	CreateDynamicObject(3749, -2683.37183, -2210.02148, 6.40000,   0.00000, 0.00000, 30.00000, .streamdistance = 200);
