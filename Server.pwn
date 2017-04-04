@@ -8296,16 +8296,16 @@ public OnFilterScriptInit()
 	CreateDynamicObject(973, -757.66, 693.97, 17.69,   0.00, 348.13, 340.19, .streamdistance = 200);
 
 	//Custom Pay N' Sprays (Farva)
-	CreateDynamicObject(4848, 1936.37000, -1873.31995, 15.84000,   0.00000, 0.00000, 0.00000.worldid = 0, .streamdistance = 100);
-	CreateDynamicObject(19313, 1921.16003, -1859.04004, 12.55000,   0.00000, 0.00000, 90.00000.worldid = 0, .streamdistance = 100);
-	CreateDynamicObject(19313, 1944.69995, -1857.71997, 12.55000,   0.00000, 0.00000, -13.50000.worldid = 0, .streamdistance = 100);
-	CreateDynamicObject(19313, 1931.10999, -1854.45996, 12.55000,   0.00000, 0.00000, -13.50000.worldid = 0, .streamdistance = 100);
-	CreateDynamicObject(3292, 1911.02002, -1860.43994, 12.57000,   0.00000, 0.00000, 180.00000.worldid = 0, .streamdistance = 100);
-	CreateDynamicObject(3293, 1906.32996, -1863.12000, 15.76000,   0.00000, 0.00000, 180.00000.worldid = 0, .streamdistance = 100);
-	CreateDynamicObject(19313, 1921.16003, -1868.34998, 12.55000,   0.00000, 0.00000, 90.00000.worldid = 0, .streamdistance = 100);
-	CreateDynamicObject(3578, 1840.56006, -1873.68005, 12.03000,   0.00000, 0.00000, 0.00000.worldid = 0, .streamdistance = 100);
-	CreateDynamicObject(3578, 1838.06995, -1873.68005, 12.02000,   0.00000, 0.00000, 0.00000.worldid = 0, .streamdistance = 100);
-	CreateDynamicObject(19313, 1927.88000, -1853.68994, 12.55000,   0.00000, 0.00000, -13.50000.worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(4848, 1936.37000, -1873.31995, 15.84000,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(19313, 1921.16003, -1859.04004, 12.55000,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(19313, 1944.69995, -1857.71997, 12.55000,   0.00000, 0.00000, -13.50000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(19313, 1931.10999, -1854.45996, 12.55000,   0.00000, 0.00000, -13.50000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(3292, 1911.02002, -1860.43994, 12.57000,   0.00000, 0.00000, 180.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(3293, 1906.32996, -1863.12000, 15.76000,   0.00000, 0.00000, 180.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(19313, 1921.16003, -1868.34998, 12.55000,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(3578, 1840.56006, -1873.68005, 12.03000,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(3578, 1838.06995, -1873.68005, 12.02000,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(19313, 1927.88000, -1853.68994, 12.55000,   0.00000, 0.00000, -13.50000, .worldid = 0, .streamdistance = 100);
 
 	/* VIP Gold/Plat Room
 	CreateDynamicObject(1536,902.68000000,1418.29000000,-81.98000000,0.00000000,0.00000000,90.00000000); //
