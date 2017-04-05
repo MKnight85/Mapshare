@@ -2,6 +2,28 @@
 
 public OnFilterScriptInit()
 {
+	// United Racing Society - Exterior - Added 5 APR 2016 - MaxKnight
+	CreateDynamicObject(8411, 2100.22925, -2140.72559, -52.34710,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(9339, 2131.03711, -2140.48389, 13.24838,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(19903, 2135.16284, -2145.48071, 12.56960,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(930, 2135.16040, -2146.86084, 13.04490,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1616, 2110.87964, -2128.36426, 16.87435,   0.00000, 0.00000, 191.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(8249, 2075.95776, -2143.83643, 20.05610,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(8249, 2096.58154, -2143.84741, 20.06010,   0.00000, 0.00000, 180.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(8249, 2096.55127, -2137.23242, 20.06010,   0.00000, 0.00000, 180.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(8650, 2094.65747, -2124.88208, 17.03670,   0.00000, 180.00000, -90.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(8650, 2074.63159, -2124.88379, 17.03670,   0.00000, 180.00000, -90.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(8650, 2056.12769, -2124.88208, 17.03670,   0.00000, 180.00000, -90.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(8249, 2075.95508, -2137.22021, 20.05610,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(3660, 2131.85718, -2137.24976, 14.20290,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(5409, 2099.07617, -2142.94263, 17.09571,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(11504, 2106.21509, -2138.81299, 12.60161,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(18283, 2132.63184, -2148.33813, 12.64200,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2714, 2110.39282, -2141.94043, 15.02812,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(17950, 2105.86865, -2152.95142, 14.46475,   0.00000, 0.00000, -90.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(9093, 2110.16064, -2152.74390, 14.32850,   0.00000, 0.00000, 180.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(8249, 2090.26050, -2143.87427, 15.79780,   0.00000, 0.00000, 180.00000, .worldid = 0, .streamdistance = 150);
+
 	// United Racing Society - Interior - Added 1 APR 2016 - MaxKnight
 	CreateDynamicObject(11086, -568.74292, -522.11572, 1043.71143,   0.00000, 0.00000, 0.00000, .worldid = 77, .streamdistance = 150);
 	CreateDynamicObject(2932, -569.69269, -528.89978, 1038.42932,   0.00000, 0.00000, 0.00000, .worldid = 77, .streamdistance = 150);
