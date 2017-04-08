@@ -5,16 +5,16 @@ public OnFilterScriptInit()
 
 {
 	// Jimmy Glasscock - Custom Exterior - Flag: Pending - MaxKnight
-	CreateObject(3618, 2416.23291, 91.64217, 28.12628, 0.00000, 0.00000, -90.42005, .worldid = 0, .streamdistance = 200);
-	CreateObject(19314, 2414.67163, 88.30450, 28.16095, 89.75999, -20.51998, 18.00000, .worldid = 0, .streamdistance = 200);
-	CreateObject(932, 2412.56006, 93.71540, 25.45936, 0.00000, 0.00000, -62.46001, .worldid = 0, .streamdistance = 200);
-	CreateObject(19273, 2414.69824, 87.47674, 27.36057, 0.00000, 0.00000, -89.46000, .worldid = 0, .streamdistance = 200);
-	CreateObject(1550, 2412.26147, 92.06756, 25.87542, 82.91999, -33.90000, -77.45999, .worldid = 0, .streamdistance = 200);
-	CreateObject(19632, 2410.88257, 93.27383, 26.49247, -0.84000, -0.96000, -49.55995, .worldid = 0, .streamdistance = 200);
-	CreateObject(1574, 2410.89331, 93.25991, 25.57667, 0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 200);
-	CreateObject(1728, 2412.51782, 92.01033, 25.32930, 0.54000, -2.28000, -151.85980, .worldid = 0, .streamdistance = 200);
-	CreateObject(348, 2412.15820, 93.76514, 25.99078, -98.69998, -51.60001, -54.29998, .worldid = 0, .streamdistance = 200);
-	CreateObject(3811, 2409.00732, 97.66779, 25.78377, 0.00000, 0.00000, -181.67998, .worldid = 0, .streamdistance = 200);
+	CreateDynamicObject(3618, 2416.23291, 91.64217, 28.12628, 0.00000, 0.00000, -90.42005, .worldid = 0, .streamdistance = 200);
+	CreateDynamicObject(19314, 2414.67163, 88.30450, 28.16095, 89.75999, -20.51998, 18.00000, .worldid = 0, .streamdistance = 200);
+	CreateDynamicObject(932, 2412.56006, 93.71540, 25.45936, 0.00000, 0.00000, -62.46001, .worldid = 0, .streamdistance = 200);
+	CreateDynamicObject(19273, 2414.69824, 87.47674, 27.36057, 0.00000, 0.00000, -89.46000, .worldid = 0, .streamdistance = 200);
+	CreateDynamicObject(1550, 2412.26147, 92.06756, 25.87542, 82.91999, -33.90000, -77.45999, .worldid = 0, .streamdistance = 200);
+	CreateDynamicObject(19632, 2410.88257, 93.27383, 26.49247, -0.84000, -0.96000, -49.55995, .worldid = 0, .streamdistance = 200);
+	CreateDynamicObject(1574, 2410.89331, 93.25991, 25.57667, 0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 200);
+	CreateDynamicObject(1728, 2412.51782, 92.01033, 25.32930, 0.54000, -2.28000, -151.85980, .worldid = 0, .streamdistance = 200);
+	CreateDynamicObject(348, 2412.15820, 93.76514, 25.99078, -98.69998, -51.60001, -54.29998, .worldid = 0, .streamdistance = 200);
+	CreateDynamicObject(3811, 2409.00732, 97.66779, 25.78377, 0.00000, 0.00000, -181.67998, .worldid = 0, .streamdistance = 200);
 	
 	// Joef Smirnov - Custom Exterior - Flag: Pending - MaxKnight
 	CreateDynamicObject(19353, 2403.88208, -1375.39417, 21.57410,   1.98000, 0.00000, -50.00000, .worldid = 0, .streamdistance = 200);
