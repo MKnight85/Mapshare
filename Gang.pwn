@@ -2,6 +2,72 @@
 
 public OnFilterScriptInit()
 {
+	// Marina Gangsters - Exterior - Added 9 APR 2016 - MaxKnight
+	CreateDynamicObject(1764, 781.39111, -1637.56201, 12.37310,   0.00000, 0.00000, 105.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(1756, 784.83020, -1638.90344, 12.37310,   0.00000, 0.00000, 175.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(1756, 782.47882, -1634.39197, 12.37310,   0.00000, 0.00000, 11.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2370, 783.30389, -1636.82361, 12.06910,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(1460, 782.12061, -1631.98181, 13.13430,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(1460, 792.37323, -1635.49707, 13.32230,   0.00000, 0.00000, -90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(12957, 782.24237, -1601.95544, 13.03830,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(944, 791.34912, -1600.41199, 13.25430,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(3496, 790.60791, -1621.78259, 12.37310,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(1415, 791.59406, -1616.73853, 12.47310,   0.00000, 0.00000, -90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(866, 783.47400, -1598.26465, 12.71630,   0.00000, 0.00000, 98.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2673, 783.52509, -1636.58032, 13.00310,   0.00000, 0.00000, 11.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2673, 783.77356, -1636.41699, 13.00310,   0.00000, 0.00000, 207.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(782, 801.39258, -1639.01746, 12.07030,   0.00000, 0.00000, 219.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2628, 790.37897, -1637.24670, 12.36830,   0.00000, 0.00000, -105.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2629, 790.49420, -1635.08984, 12.36830,   0.00000, 0.00000, -85.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2913, 790.98352, -1634.60522, 13.34830,   0.00000, 90.00000, -85.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(944, 791.26147, -1603.44348, 13.25430,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(944, 791.28986, -1601.50110, 14.69630,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(935, 791.49542, -1601.75110, 15.81830,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+
+	// Ancelotti Crime Family - Exterior - Added 9 APR 2016 - MaxKnight
+	CreateDynamicObject(6337, 1035.82288, -1896.49536, 16.83090,   0.00000, 0.00000, -89.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(19176, 1023.93896, -1901.84375, 13.52711,   0.00000, 0.00000, 91.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(8411, 1024.81482, -1900.64368, -52.75735,   0.00000, -0.30000, 91.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2774, 1037.13672, -1926.58496, 4.24100,   0.00000, 0.00000, 1.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(8411, 1023.86603, -1846.57056, -55.97540,   0.00000, 7.00000, 91.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(18765, 1029.15442, -1902.74011, 22.16907,   0.00000, 0.00000, 1.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2774, 1036.83362, -1910.99927, 4.24100,   0.00000, 180.00000, 1.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2774, 1036.58228, -1894.80823, 4.24100,   0.00000, 180.00000, 1.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2774, 1036.30420, -1878.63477, 4.24100,   0.00000, 0.00000, 1.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2774, 1036.54016, -1890.96362, 16.58870,   0.00000, 90.00000, 91.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2774, 1022.52777, -1878.81262, 16.62620,   0.00000, 90.00000, 181.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2774, 1023.41602, -1926.83118, 16.64025,   0.00000, 90.00000, 181.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2774, 1010.17920, -1879.05347, 4.27700,   0.00000, 0.00000, 1.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2774, 1011.06873, -1927.08276, 4.29310,   0.00000, 0.00000, 1.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(9321, 1018.59912, -1880.63184, 13.83200,   0.00000, 0.00000, 91.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(984, 1027.04236, -1878.16418, 12.82820,   0.00000, 0.00000, 91.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2774, 1036.91626, -1914.23694, 16.59870,   0.00000, 90.00000, -89.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(982, 1037.20923, -1890.64917, 12.71250,   0.00000, 0.00000, 1.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(982, 1037.73230, -1919.59912, 12.71250,   0.00000, 0.00000, 1.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(19121, 1037.40039, -1905.13794, 12.68656,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+
+	// Eastside Bloods - Exterior - Added 9 APR 2016 - MaxKnight
+	CreateDynamicObject(3594, 2090.41455, -1331.03394, 23.53750,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(3651, 2087.08765, -1318.49316, 25.73750,   0.00000, 0.00000, -90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(865, 2089.99243, -1331.84351, 22.93750,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2912, 2084.47510, -1331.39050, 22.98150,   0.00000, 0.00000, 40.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(1764, 2086.71338, -1334.46423, 22.97150,   0.00000, 0.00000, -198.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(1764, 2085.82568, -1329.86279, 22.97150,   0.00000, 0.00000, -33.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(1617, 2084.06665, -1325.50806, 27.53750,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(911, 2090.71997, -1326.31592, 23.68550,   -20.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2674, 2084.38940, -1333.34131, 23.00200,   0.00000, 0.00000, 40.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2673, 2083.81934, -1331.84692, 23.06600,   0.00000, 0.00000, 40.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(2673, 2086.17578, -1331.11304, 23.06600,   0.00000, 0.00000, -55.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(11708, 2085.47656, -1332.39746, 23.05750,   90.00000, 0.00000, 11.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(961, 2086.07813, -1332.29114, 22.90350,   0.00000, 0.00000, -25.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(1771, 2085.28833, -1326.26416, 23.37150,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(11727, 2089.12158, -1325.51929, 25.77340,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(19914, 2085.35986, -1326.77307, 23.02550,   0.00000, 0.00000, 113.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(19831, 2091.68188, -1337.24292, 22.97150,   0.00000, 0.00000, -90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(1483, 2086.25244, -1337.28442, 24.73350,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(3275, 2089.07080, -1339.01697, 23.76540,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 100);
+	CreateDynamicObject(8674, 2081.89111, -1329.70313, 23.26540,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 100);
+
 	// United Racing Society - Exterior - Added 5 APR 2016 - MaxKnight
 	CreateDynamicObject(8411, 2100.25073, -2140.07007, -52.34710,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
 	CreateDynamicObject(9339, 2131.03711, -2140.48389, 13.24838,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
