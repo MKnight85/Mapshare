@@ -61,7 +61,7 @@ public OnFilterScriptInit()
     "Arial", 30, 1, 0xFF000000, 0, OBJECT_MATERIAL_TEXT_ALIGN_CENTER);
 
 	new CH2 = CreateDynamicObject(8324, 1412.42676, -1683.44519, 21.2790,   0.00000, 0.00000, 90.00000);
-    SetDynamicObjectMaterialText(CH2, 1, "District Court House", OBJECT_MATERIAL_SIZE_512x256,
+    SetDynamicObjectMaterialText(CH2, 1, "Court House", OBJECT_MATERIAL_SIZE_512x256,
     "Arial", 30, 1, 0xFF000000, 0, OBJECT_MATERIAL_TEXT_ALIGN_CENTER);
 
    	new CH3 = CreateDynamicObject(8324, 1412.4068, -1683.42517, 22.13100,   0.00000, 0.00000, 90.00000);
@@ -69,7 +69,7 @@ public OnFilterScriptInit()
     "Arial", 30, 1, 0xFFFFFFFF, 0, OBJECT_MATERIAL_TEXT_ALIGN_CENTER);
 
 	new CH4 = CreateDynamicObject(8324, 1412.4068, -1683.42517, 21.25900,   0.00000, 0.00000, 90.00000);
-    SetDynamicObjectMaterialText(CH4, 1, "District Court House", OBJECT_MATERIAL_SIZE_512x256,
+    SetDynamicObjectMaterialText(CH4, 1, "Court House", OBJECT_MATERIAL_SIZE_512x256,
     "Arial", 30, 1, 0xFFFFFFFF, 0, OBJECT_MATERIAL_TEXT_ALIGN_CENTER);
 
 	// New Courthouse, Exterior // added 08 APR 2017 - MaxKnight //
