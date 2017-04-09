@@ -1744,6 +1744,7 @@ public OnFilterScriptInit()
 	CreateDynamicObject(3459, 1025.4, -921.20001, 48.7, 0, 0, 0);
 	CreateDynamicObject(3459, 1062.7, -895.70001, 49.7, 0, 0, 5.25);
 
+	/* Mapped by McFornell
 	// 18th Street Lokotes - Exterior
 	CreateDynamicObject(3582, 2030.93884, -1686.98901, 14.93902,   0.00000, 0.00000, 0.00000, .streamdistance = 180.0);
 	CreateDynamicObject(1362, 2040.66895, -1685.00073, 13.20970,   0.00000, 0.00000, 0.00000, .streamdistance = 180.0);
@@ -1765,7 +1766,8 @@ public OnFilterScriptInit()
 	CreateDynamicObject(2674, 2043.47937, -1686.37878, 13.24480,   0.00000, 0.00000, 98.63998, .streamdistance = 180.0);
 	CreateDynamicObject(1486, 2044.17749, -1685.95520, 13.25880,   90.00000, 45.00000, 0.00000, .streamdistance = 180.0);
 	CreateDynamicObject(1369, 2045.89941, -1696.17383, 12.94830,   15.00000, 90.00000, -156.89980, .streamdistance = 180.0);
-
+	
+	/* Mapped by McFornell
 	// 18th Street Lokotes - Interior
 	CreateDynamicObject(1501, 1191.54468, -2051.38745, 	100000.86719 - 90000,   0.00000, 0.00000, 0.00000, .streamdistance = 180.0);
 	CreateDynamicObject(14476, 1190.36487, -2059.06396, 100000.85156 - 90000,   0.00000, 0.00000, 0.00000, .streamdistance = 180.0);
@@ -1936,7 +1938,9 @@ public OnFilterScriptInit()
 	CreateDynamicObject(1893, 1193.76196, -2057.16992, 	100004.30469 - 90000,   0.00000, 0.00000, 90.00000, .streamdistance = 180.0);
 	CreateDynamicObject(930, 1192.46362, -2060.07373, 	100004.86719 - 90000,   0.00000, 0.00000, 0.00000, .streamdistance = 180.0);
 	CreateDynamicObject(1431, 1190.78357, -2060.42847, 	100004.89844 - 90000,   0.00000, 0.00000, 0.00000, .streamdistance = 180.0);
-
+	*/
+	
+	
 	// The Ancelotti Crew Interior - Rubin
 	CreateDynamicObject(19378, 517.09833, 1997.65430, -60.37500,   0.00000, 90.00000, 0.00000, .worldid = 1310);
 	CreateDynamicObject(19378, 517.09833, 1988.01953, -60.37500,   0.00000, 90.00000, 0.00000, .worldid = 1310);

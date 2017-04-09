@@ -65,8 +65,10 @@ public OnFilterScriptInit()
 	CreateDynamicObject(2764, 2401.27393, -1388.98938, 23.4089,   0.00000, 0.00000, -90.00000, .worldid = 0, .streamdistance = 200);
 	CreateDynamicObject(19996, 2401.53418, -1387.90393, 23.0529,   0.00000, 0.00000, 4.00000, .worldid = 0, .streamdistance = 200);
 	CreateDynamicObject(19996, 2401.68066, -1390.09888, 23.0409,   0.00000, 0.00000, 200.00000, .worldid = 0, .streamdistance = 200);
-	new JosefHQ = CreateObject(19353, 2403.9304, -1385.9279, 27.8100, 0.0000, 0.0000, 180.0000);
-	SetObjectMaterialText(JosefHQ, "INFAMOUS LORDS", 0, 140, "Eras Bold ITC", 58, 1, 0xFF000000, 0x0, 1);
+	
+	new JosefHQ = CreateDynamicObject(19353, 2403.9304, -1385.9279, 27.8100, 0.0000, 0.0000, 180.0000);
+	SetDynamicObjectMaterialText(JosefHQ, 0, "INFAMOUS LORDS", 140, "Eras Bold ITC", 58, 1, 0xFF000000, 0x0, 1);
+
 
 	// Ron McLaren - Order ID:00765 - Maxknight
 	CreateDynamicObject(18802, 982.55676, 381.09665, 20.59690,   0.00000, 0.00000, -50.00000, .worldid = 0, .streamdistance = 150);
