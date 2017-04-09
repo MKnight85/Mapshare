@@ -503,7 +503,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(3440, 2666.86206, -1441.62646, 1023.01318,   0.00000, 0.00000, 0.00000, .worldid = 912,  .streamdistance = 250);
 	CreateDynamicObject(3440, 2666.86206, -1441.96814, 1023.01318,   0.00000, 0.00000, 0.00000, .worldid = 912,  .streamdistance = 250);
 	CreateDynamicObject(640, 2666.89868, -1439.61658, 1026.00220,   0.00000, 0.00000, 180.00000, .worldid = 912,  .streamdistance = 250);
-	
 
 	// El Corona Lokotes - Exterior - Added Dec 12 2016 - MaxKnight //
 	CreateDynamicObject(1728, 1868.00684, -1911.85999, 14.25190,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
@@ -523,7 +522,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(18665, 1849.46008, -1866.38000, 13.70910,   0.00000, 0.00000, -90.00000, .worldid = 0, .streamdistance = 150);
 	CreateDynamicObject(18663, 1920.55383, -1901.85278, 15.37890,   0.00000, 0.00000, -180.00000, .worldid = 0, .streamdistance = 150);
 	CreateDynamicObject(2677, 1878.68018, -1898.44385, 14.29700,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
-	
 	// El Mohagreen - Exterior HQ - MaxKnight
 	CreateDynamicObject(8614, 1733.98560, -2054.36963, 18.32542,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
 	CreateDynamicObject(5130, 1745.39185, -2059.59790, 13.70927,   0.00000, 0.00000, 316.25818, .streamdistance = 150);
@@ -567,7 +565,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(2676, 1105.90002, -1244.69995, 14.92000,   0.00000, 0.00000, 270.00000, .streamdistance = 150);
 	CreateDynamicObject(19817, 1100.49060, -1227.86353, 14.70805,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
 	CreateDynamicObject(18688, 1096.74963, -1243.39136, 13.89810,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
-	
 	// Jackson Dread Ballas HQ - Paid
 	CreateDynamicObject(8613, 1266.81958, -1688.61780, 35.30072,   0.00000, 0.00000, 269.57681, .streamdistance = 150);
 	CreateDynamicObject(18850, 1276.84741, -1629.52563, 21.68851,   0.00000, 0.00000, 0.50907, .streamdistance = 150);
@@ -1055,7 +1052,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(1415, 1134.68555, -347.33585, 72.99973,   0.00000, 0.00000, -178.61977, .worldid = 0, .streamdistance = 150);
 	CreateDynamicObject(1439, 1132.74731, -347.56427, 72.99944,   0.00000, 0.00000, 178.26006, .worldid = 0, .streamdistance = 150);
 	CreateDynamicObject(12986, 1130.01062, -336.89389, 74.33800,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
-	
 	// Hilltop - Interior #1
 	CreateDynamicObject(14607, -569.09, -1142.38, 488.56,   0.00, 0.00, 0.00, .worldid = 1, .streamdistance = 300);
 	CreateDynamicObject(14675, -583.00, -1120.90, 493.80,   0.00, 0.00, 0.00, .worldid = 1, .streamdistance = 300);
@@ -1305,7 +1301,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(1520, -97.10, 527.44, 1023.76,   0.00, 0.00, 0.00, .worldid = 1, .streamdistance = 300);
 	CreateDynamicObject(1520, -90.67, 527.05, 1022.92,   0.00, 0.00, 0.00, .worldid = 1, .streamdistance = 300);
 	CreateDynamicObject(2894, -95.03, 504.05, 1023.11,   0.00, 0.00, 270.00, .worldid = 1, .streamdistance = 300);
-	
 	// Hilltop - Interior #2
 	CreateDynamicObject(19379, -72.12000, 573.31000, 1002.08002,   0.00000, 90.00000, 0.00000);
 	CreateDynamicObject(19379, -72.12000, 582.92999, 1002.08002,   0.00000, 90.00000, 0.00000);
@@ -1766,8 +1761,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(2674, 2043.47937, -1686.37878, 13.24480,   0.00000, 0.00000, 98.63998, .streamdistance = 180.0);
 	CreateDynamicObject(1486, 2044.17749, -1685.95520, 13.25880,   90.00000, 45.00000, 0.00000, .streamdistance = 180.0);
 	CreateDynamicObject(1369, 2045.89941, -1696.17383, 12.94830,   15.00000, 90.00000, -156.89980, .streamdistance = 180.0);
-	
-	/* Mapped by McFornell
 	// 18th Street Lokotes - Interior
 	CreateDynamicObject(1501, 1191.54468, -2051.38745, 	100000.86719 - 90000,   0.00000, 0.00000, 0.00000, .streamdistance = 180.0);
 	CreateDynamicObject(14476, 1190.36487, -2059.06396, 100000.85156 - 90000,   0.00000, 0.00000, 0.00000, .streamdistance = 180.0);
@@ -1939,8 +1932,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(930, 1192.46362, -2060.07373, 	100004.86719 - 90000,   0.00000, 0.00000, 0.00000, .streamdistance = 180.0);
 	CreateDynamicObject(1431, 1190.78357, -2060.42847, 	100004.89844 - 90000,   0.00000, 0.00000, 0.00000, .streamdistance = 180.0);
 	*/
-	
-	
 	// The Ancelotti Crew Interior - Rubin
 	CreateDynamicObject(19378, 517.09833, 1997.65430, -60.37500,   0.00000, 90.00000, 0.00000, .worldid = 1310);
 	CreateDynamicObject(19378, 517.09833, 1988.01953, -60.37500,   0.00000, 90.00000, 0.00000, .worldid = 1310);
@@ -2144,7 +2135,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(1979, 530.19159, 2003.64246, -59.32400,   0.00000, 0.00000, 0.00000, .worldid = 1310);
 
 
-	
 
 	return 1;
 }
