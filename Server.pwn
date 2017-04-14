@@ -29101,11 +29101,8 @@ public OnFilterScriptInit()
 	CreateDynamicObject(1557, 2517.92896, -1487.23059, 22.98500,   0.00000, 0.00000, 89.93590, .streamdistance = 250);
 	CreateDynamicObject(1557, 2517.92627, -1484.23853, 22.98502,   0.00000, 0.00000, 269.96970, .streamdistance = 250);
 
-
-
-
 	// Lucky Cowboy Casino
-		// Exterior
+	// Exterior
 	CreateDynamicObject(7073, 1096.01001, -1695.00000, 27.10000,   0.00000, 0.00000, 180.00000);
 	CreateDynamicObject(19449, 1063.65002, -1695.44995, 19.84600,   0.00000, 0.00000, 236.20821);
 	CreateDynamicObject(19449, 1082.00000, -1698.09998, 19.84600,   0.00000, 0.00000, 270.00000);
@@ -29149,7 +29146,7 @@ public OnFilterScriptInit()
 	CreateDynamicObject(19858, 1094.51685, -1691.80005, 23.80000,   0.00000, 0.00000, 0.00000);
 	CreateDynamicObject(11102, 1103.86926, -1668.86401, 14.50000,   0.00000, 0.00000, 270.00000);
 	CreateDynamicObject(1569, 1115.29846, -1697.04785, 13.33675,   0.00000, 0.00000, 20.10000);
-		// Interior
+	// Interior
 	CreateDynamicObject(11729, 233.39960, 1821.96375, 2000.08337,   0.00000, 0.00000, 270.00000);
 	CreateDynamicObject(11729, 233.39960, 1822.63696, 2000.08337,   0.00000, 0.00000, 270.00000);
 	CreateDynamicObject(11729, 233.39960, 1823.30005, 2000.08337,   0.00000, 0.00000, 270.00000);
@@ -29321,7 +29318,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(1726, 232.13208, 1825.13501, 2000.87866,   0.00000, 0.00000, 180.00000);
 	CreateDynamicObject(19324, 218.18401, 1809.87610, 2000.68555,   0.00000, 0.00000, 180.00000); //ATM
 
-
 	// Lewis Langley's Palace EXTERIOR //
 	new iObjectID;
 
@@ -29345,11 +29341,9 @@ public OnFilterScriptInit()
 	SetDynamicObjectMaterial(iObjectID, 0, 0, "none", "none", 0);
 	SetDynamicObjectMaterialText(iObjectID, 1, "of New Robada", OBJECT_MATERIAL_SIZE_256x128, "Arial", 20, 1, 0xFF00FFFF, 0x00000000, 1);
 
-
 	// Side 2.
 	iObjectID = CreateDynamicObject(8325, 2107.06689, 998.53912, 42.07800,   0.00000, 0.00000, 270.00000);
 	SetDynamicObjectMaterialText(iObjectID, 1, "Langley Palace", OBJECT_MATERIAL_SIZE_256x128, "Arial", 36, 1, 0xFFFFFFFF, 0xFF000000, 1);
-
 
 	iObjectID = CreateDynamicObject(8325, 2107.06689, 999.75708, 36.73900,   0.00000, 0.00000, 270.00000);
 	SetDynamicObjectMaterial(iObjectID, 0, 0, "none", "none", 0);
@@ -29449,7 +29443,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(1237, 2095.65796, 1034.84314, 9.69280,   0.00000, 0.00000, 0.00000);
 	CreateDynamicObject(1237, 2181.82544, 1183.34546, 9.71590,   0.00000, 0.00000, 0.00000);
 	CreateDynamicObject(967, 2171.36523, 984.12421, 9.61557,   0.00000, 0.00000, 269.05750);
-
 
 	// Lewis' palace INTERIOR //
 	CreateDynamicObject(11486, 1685.69995, -1419.45752, 1220.62073,   0.00000, 0.00000, 0.00000,  .worldid = 8888);
@@ -30065,10 +30058,6 @@ public OnFilterScriptInit()
 	CreateDynamicObject(1536, 1692.54761, -1331.66699, 1147.46448,   0.00000, 0.00000, 180.00000,  .worldid = 8888);
 	CreateDynamicObject(11714, 1645.19214, -1418.99097, 1143.61401,   0.00000, 0.00000, 0.00000,  .worldid = 8888);
 
-
-	// -----------------------------------------------//
-
-
 	// Dedicated Player Lounge Interior Mapping - MaxKnight //
 	CreateDynamicObject(19887, 190.09070, -1964.77954, 3503.50830,   0.00000, 0.00000, 0.00000);
 	CreateDynamicObject(19887, 190.05070, -1964.70752, 3497.65015,   0.00000, 180.00000, 0.00000);
@@ -30336,7 +30325,6 @@ public OnFilterScriptInit()
 	SetDynamicObjectMaterial(CreateDynamicObject(19543, 169.08400, -1993.86816, 3510.00977,   0.00000, 90.00000, 0.00000), 0, 14595, "papaerchaseoffice" ,"ab_hosWallUpr", 0);
 	SetDynamicObjectMaterial(CreateDynamicObject(19543, 165.74960, -2001.39734, 3504.26587,   0.00000, 90.00000, 90.00000), 0, 14595, "papaerchaseoffice" ,"ab_hosWallUpr", 0);
 
-
 	// Dedicated Player Lounge Exterior Mapping - MaxKnight //
 	CreateDynamicObject(3471, 151.31561, -1944.48499, 3.74230,   0.00000, 0.00000, 90.00000, .streamdistance = 250);
 	CreateDynamicObject(3471, 157.09000, -1944.47156, 3.74230,   0.00000, 0.00000, 90.00000, .streamdistance = 250);
@@ -30445,7 +30433,7 @@ stock RemoveBuildingsFromPlayer(playerid)
 		RemoveBuildingForPlayer(playerid, 10611, -2453.6563, 514.5000, 24.4375, 0.25);
 
 		// Dedicated Player Lounge //
-		RemoveBuildingForPlayer(playerid, 1231, 154.4531, -1887.2422, 5.4844, 0.25); // Lightpole near lighthouse, removed for Dedicated Player Lounge Mapping
+		RemoveBuildingForPlayer(playerid, 1231, 154.4531, -1887.2422, 5.4844, 0.25); 
 
 		// New Market Apartments //
 		RemoveBuildingForPlayer(playerid, 5931, 1114.3125, -1348.1016, 17.9844, 0.25);
@@ -30464,17 +30452,18 @@ stock RemoveBuildingsFromPlayer(playerid)
 		RemoveBuildingForPlayer(playerid, 933, 2158.1094, -94.1406, 2.2969, 0.25);
 		RemoveBuildingForPlayer(playerid, 933, 2155.9141, -121.0391, 0.0859, 0.25);
 		RemoveBuildingForPlayer(playerid, 935, 2117.8438, -67.8359, 0.1328, 0.25);
+		
 		//Los Santos - General
 		RemoveBuildingForPlayer(playerid, 6253, 1305.4688, -1619.7422, 13.3984, 0.25); //Hedge in LS
 		RemoveBuildingForPlayer(playerid, 6046, 1305.4688, -1619.7422, 13.3984, 0.25); //Hedge in LS
-
+		
 		//Dillimore Gas Pumps
 		RemoveBuildingForPlayer(playerid, 1686, 655.6641, -571.2109, 15.3594, 0.25);
 		RemoveBuildingForPlayer(playerid, 1686, 655.6641, -569.6016, 15.3594, 0.25);
 		RemoveBuildingForPlayer(playerid, 1686, 655.6641, -558.9297, 15.3594, 0.25);
 		RemoveBuildingForPlayer(playerid, 1686, 655.6641, -560.5469, 15.3594, 0.25);
+		
 		//Misc
-		//RemoveBuildingForPlayer(playerid, 1308, 9.0234, 15.1563, -5.7109, 0.25);
 		RemoveBuildingForPlayer(playerid, 1411, -2529.2813, -594.3281, 133.2969, 0.25);
 		RemoveBuildingForPlayer(playerid, 1411, -2524.0156, -594.3281, 133.2969, 0.25);
 		RemoveBuildingForPlayer(playerid, 1411, -2518.7500, -594.3281, 133.2969, 0.25);
@@ -30504,7 +30493,6 @@ stock RemoveBuildingsFromPlayer(playerid)
 		RemoveBuildingForPlayer(playerid, 1290, -1673.3047, 540.3672, 42.6172, 0.25);
 
 		// Lewis Langley's Palace
-		//RemoveBuildingForPlayer(playerid, 8620, 2107.3516, 1003.0547, 32.9844, 0.25);
 		RemoveBuildingForPlayer(playerid, 8621, 2107.5938, 1003.0625, 42.1406, 0.25);
 		RemoveBuildingForPlayer(playerid, 8644, 2148.6016, 1132.4844, 20.5000, 0.25);
 		RemoveBuildingForPlayer(playerid, 8621, 2107.5938, 1003.0625, 42.1406, 0.25);
@@ -30520,11 +30508,11 @@ stock RemoveBuildingsFromPlayer(playerid)
 			##       ##     ##  ######     ##    ####  #######  ##    ##
 		*/
 
-				// New Courthouse, Perishing Square //
+				
+		// New Courthouse, Perishing Square //
 		RemoveBuildingForPlayer(playerid, 4054, 1402.5000, -1682.0234, 25.5469, 0.25);
 		RemoveBuildingForPlayer(playerid, 4220, 1370.6406, -1643.4453, 33.1797, 0.25);
 		RemoveBuildingForPlayer(playerid, 4005, 1402.5000, -1682.0234, 25.5469, 0.25);
-
 
 		// url hq sf
 		RemoveBuildingForPlayer(playerid, 11014, -2076.4375, -107.9297, 36.9688, 0.25);
@@ -30532,6 +30520,7 @@ stock RemoveBuildingsFromPlayer(playerid)
 		//Fencing at FBI
 		RemoveBuildingForPlayer(playerid, 1412, 1327.4297, -1239.9844, 13.9375, 0.25);
 		RemoveBuildingForPlayer(playerid, 1412, 1327.4297, -1234.7422, 13.9375, 0.25);
+		
 		//NOOSE
  		RemoveBuildingForPlayer(playerid, 785, -594.9141, -1954.3984, 31.5625, 0.25);
 		RemoveBuildingForPlayer(playerid, 785, -635.9219, -1923.8828, 8.8125, 0.25);
@@ -30585,16 +30574,12 @@ stock RemoveBuildingsFromPlayer(playerid)
 		RemoveBuildingForPlayer(playerid, 1413, -77.3516, -1203.7422, 2.8047, 0.25);
 		RemoveBuildingForPlayer(playerid, 1413, -75.6719, -1198.8125, 2.3672, 0.25);
 		RemoveBuildingForPlayer(playerid, 1440, -103.6875, -1172.5781, 2.2656, 0.25);
+		
 		// SAAS HQ
-		//RemoveBuildingForPlayer(playerid, 10814, -1146.5547, -145.3047, 17.0781, 0.25);
-		//RemoveBuildingForPlayer(playerid, 3814, -1178.1016, -114.8281, 19.7656, 0.25);
-		//RemoveBuildingForPlayer(playerid, 3814, -1217.1406, -67.1719, 19.7656, 0.25);
 		RemoveBuildingForPlayer(playerid, 3814, -1272.0781, -660.3281, 19.7656, 0.25);
 		RemoveBuildingForPlayer(playerid, 3814, -1334.4766, -660.3281, 19.7656, 0.25);
 		RemoveBuildingForPlayer(playerid, 3814, -1396.8750, -660.3281, 19.7656, 0.25);
 		RemoveBuildingForPlayer(playerid, 3814, -1459.2734, -660.3281, 19.7656, 0.25);
-		//RemoveBuildingForPlayer(playerid, 3815, -1178.1016, -114.8281, 19.7656, 0.25);
-		//RemoveBuildingForPlayer(playerid, 3815, -1217.1406, -67.1719, 19.7656, 0.25);
 		RemoveBuildingForPlayer(playerid, 3815, -1272.0781, -660.3281, 19.7656, 0.25);
 		RemoveBuildingForPlayer(playerid, 3815, -1334.4766, -660.3281, 19.7656, 0.25);
 		RemoveBuildingForPlayer(playerid, 3815, -1396.8750, -660.3281, 19.7656, 0.25);
@@ -30761,9 +30746,11 @@ stock RemoveBuildingsFromPlayer(playerid)
 		RemoveBuildingForPlayer(playerid, 705, -1011.6406, -1101.0547, 128.2734, 0.25);
 		RemoveBuildingForPlayer(playerid, 790, -982.1172, -1077.7422, 133.1563, 0.25);
 		RemoveBuildingForPlayer(playerid, 790, -854.0000, -1106.1953, 94.1250, 0.25);
+		
 		//Webb's Business Exterior (Former site of Donahue Construction, Inc.)
 		RemoveBuildingForPlayer(playerid, 10553, -2336.9297, -105.2891, 37.0000, 0.25);
 		RemoveBuildingForPlayer(playerid, 10394, -2336.9297, -105.2891, 37.0000, 0.25);
+		
 		//Farva's House
 		RemoveBuildingForPlayer(playerid, 3260, -1431.0234, -968.3203, 200.8125, 0.25);
 		RemoveBuildingForPlayer(playerid, 3260, -1437.0391, -968.3203, 200.8125, 0.25);
@@ -30787,11 +30774,10 @@ stock RemoveBuildingsFromPlayer(playerid)
 		RemoveBuildingForPlayer(playerid, 3260, -1423.2969, -965.4609, 200.8125, 0.25);
 		RemoveBuildingForPlayer(playerid, 690, -55.2656, -498.8203, 1.9453, 0.25);
 		RemoveBuildingForPlayer(playerid, 696, -72.5000, -476.1953, 6.0703, 0.25);
+		
 		//Nick's House
 		RemoveBuildingForPlayer(playerid, 705, 345.6563, -260.0703, 5.6250, 0.25);
-		
-		// Webb's CCP
-
+	
 		//pepito wing ccp
 		RemoveBuildingForPlayer(playerid, 3276, -300.9375, -2148.4219, 28.3203, 0.25);
 		RemoveBuildingForPlayer(playerid, 1308, -303.3125, -2143.9141, 27.6328, 0.25);
@@ -30811,6 +30797,7 @@ stock RemoveBuildingsFromPlayer(playerid)
 		RemoveBuildingForPlayer(playerid, 3276, -248.0391, -2192.8125, 29.0234, 0.25);
 		RemoveBuildingForPlayer(playerid, 3276, -244.8594, -2203.8672, 29.0234, 0.25);
 		RemoveBuildingForPlayer(playerid, 3276, -243.7266, -2214.7266, 28.8984, 0.25);
+		
 		//Custom Coding Project Order ID: 32832 Owner: Edgar Johnson
 		RemoveBuildingForPlayer(playerid, 12937, 873.9922, -22.7578, 65.1016, 0.25);
 		RemoveBuildingForPlayer(playerid, 735, 851.5078, -19.7500, 61.3750, 0.25);
@@ -30826,6 +30813,7 @@ stock RemoveBuildingsFromPlayer(playerid)
 		RemoveBuildingForPlayer(playerid, 3275, 879.2578, -14.2109, 63.0234, 0.25);
 		RemoveBuildingForPlayer(playerid, 3276, 857.5313, -11.9688, 63.3281, 0.25);
 		RemoveBuildingForPlayer(playerid, 790, 851.8672, -11.6406, 56.2891, 0.25);
+		
 		//Benny McCabe Club Sleven removals
 		RemoveBuildingForPlayer(playerid, 729, 476.7188, -1324.7891, 11.1172, 0.25);
 
