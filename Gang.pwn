@@ -2,6 +2,50 @@
 
 public OnFilterScriptInit()
 {
+	// Melrose Street Goons - Added: 10 May 2017 - MaxKnight
+	CreateDynamicObject(3497, 2460.39990, -1424.40002, 27.90000,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1764, 2458.50000, -1392.90002, 23.00000,   0.00000, 0.00000, 314.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1764, 2460.30005, -1396.59998, 22.90000,   0.00000, 0.00000, 220.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(937, 2458.70020, -1395.29980, 23.40000,   0.00000, 0.00000, 309.99600, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2958, 2459.40039, -1395.59961, 24.00000,   0.00000, 345.00000, 76.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2967, 2458.60010, -1394.59998, 23.90000,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1484, 2458.80005, -1395.00000, 24.10000,   350.00000, 28.00000, 118.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1546, 2458.00000, -1394.80005, 24.00000,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1546, 2458.80005, -1395.30005, 24.00000,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1481, 2460.80005, -1400.09998, 23.60000,   0.00000, 0.00000, 270.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2103, 2460.69995, -1395.19995, 22.90000,   0.00000, 0.00000, 270.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1530, 2461.23047, -1395.00000, 24.50000,   352.99100, 347.99200, 0.59900, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(17969, 2464.19995, -1414.19995, 29.70000,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2837, 2458.80005, -1395.59998, 23.90000,   0.00000, 0.00000, 194.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2840, 2458.39990, -1395.09998, 23.90000,   0.00000, 0.00000, 60.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2647, 2458.89990, -1395.90002, 24.00000,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2663, 2460.10010, -1396.80005, 23.50000,   0.00000, 0.00000, 316.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1216, 2460.70020, -1433.59961, 23.50000,   0.00000, 0.00000, 267.99500, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1490, 2461.10010, -1424.19995, 26.30000,   0.00000, 0.00000, 2.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(17969, 2478.69995, -1428.40002, 30.20000,   0.00000, 0.00000, 180.00000, .worldid = 0, .streamdistance = 150);
+
+	// Akuma-Gumi Yakuza - Added: 10 May 2017 - MaxKnight
+	CreateDynamicObject(1568, 991.55792, -1776.99683, 12.54380,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(3534, 1028.03076, -1771.83850, 16.46800,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(3534, 1026.56238, -1773.27625, 16.46800,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(9482, 1020.11749, -1765.27393, 15.70580,   0.00000, 0.00000, 44.60000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1568, 1031.54797, -1769.31091, 11.82380,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1568, 1030.65662, -1780.03760, 11.94380,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(3037, 984.87817, -1749.84717, 14.04380,   0.00000, 0.00000, 89.80000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1568, 1008.26440, -1781.15479, 12.42380,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(8653, 979.23969, -1759.12842, 13.49380,   0.00000, 0.00000, -0.40000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(3471, 979.93787, -1773.40161, 14.28620,   0.00000, 0.00000, -87.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(3471, 1028.80481, -1787.19031, 13.86620,   0.00000, 0.00000, -8.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(3471, 1030.96875, -1763.40173, 13.86620,   0.00000, 0.00000, -1.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(3471, 988.26160, -1775.41528, 14.28620,   0.00000, 0.00000, -87.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1568, 985.34802, -1750.49500, 11.92000,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1364, 1025.64172, -1783.40454, 13.52380,   0.00000, 1.00000, 84.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1364, 1026.18164, -1777.63782, 13.40380,   0.00000, 1.00000, 84.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1568, 1022.25262, -1786.21204, 12.20380,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1597, 1024.09790, -1779.92847, 15.32380,   -1.20000, 0.00000, -5.10000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1359, 1025.95825, -1780.49060, 13.34380,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(19176, 1025.36584, -1770.62146, 13.79640,   0.00000, 0.00000, 44.65000, .worldid = 0, .streamdistance = 150);
+		
 	// Eastside Bloods - Added: 22 April 2017 - MaxKnight
 	CreateDynamicObject(19363, -41.16220, 1647.08264, 88.28000,   0.00000, 0.00000, 90.00000, .worldid = 334);
 	CreateDynamicObject(19392, -39.64553, 1648.63513, 88.28000,   0.00000, 0.00000, 0.00000, .worldid = 334);
