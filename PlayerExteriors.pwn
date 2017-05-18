@@ -4,6 +4,90 @@
 public OnFilterScriptInit()
 
 {
+	// Andrew Hoonigan - Order ID:000965 - Flag ID: Pending  - Maxknight
+	CreateDynamicObject(4571, -1013.76440, -547.27753, -32.94730,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(5706, -994.07709, -533.81561, 28.25670,   0.00000, 0.00000, -90.00000, .streamdistance = 150);
+	CreateDynamicObject(8947, -988.57080, -529.73096, 34.99650,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(5706, -994.08478, -561.77448, 28.28270,   0.00000, 0.00000, -90.00000, .streamdistance = 150);
+	CreateDynamicObject(8947, -988.57080, -565.98218, 34.99650,   0.00000, 0.00000, 180.00000, .streamdistance = 150);
+	CreateDynamicObject(8947, -988.54510, -548.20105, 34.99450,   0.00000, 0.00000, 180.00000, .streamdistance = 150);
+	CreateDynamicObject(8838, -997.65765, -534.20618, 36.50710,   0.00000, 0.00000, -90.00000, .streamdistance = 150);
+	CreateDynamicObject(8838, -997.65930, -518.99292, 21.32940,   0.00000, -90.00000, -90.00000, .streamdistance = 150);
+	CreateDynamicObject(8838, -997.65930, -576.73621, 21.32940,   0.00000, 90.00000, -90.00000, .streamdistance = 150);
+	CreateDynamicObject(8838, -997.65930, -561.56348, 36.50680,   0.00000, 0.00000, -90.00000, .streamdistance = 150);
+	CreateDynamicObject(9339, -1011.78717, -578.11414, 31.37912,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(9339, -1020.12701, -578.11603, 31.38110,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(9339, -1033.04858, -565.14111, 31.37910,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(9339, -1033.07532, -539.08051, 31.37910,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(9339, -1011.84070, -517.52643, 31.29509,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(8673, -1012.54846, -578.10931, 33.45630,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(8673, -1020.87231, -517.48767, 33.45630,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(18770, -1032.24316, -517.98108, -64.96630,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(1696, -1006.26215, -533.27374, 31.44387,   -9.00000, 0.00000, -90.00000, .streamdistance = 150);
+	CreateDynamicObject(19911, -995.94556, -522.33624, 34.83475,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(11313, -995.90936, -533.01660, 33.98690,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(11313, -995.90942, -572.54828, 33.98690,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(11313, -995.90942, -546.83197, 33.98690,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(11313, -995.90942, -559.23859, 33.98690,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(1696, -1006.26208, -558.68988, 31.44390,   -9.00000, 0.00000, -90.00000, .streamdistance = 150);
+	CreateDynamicObject(1566, -996.01318, -526.36853, 33.52257,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(2714, -996.06897, -525.54315, 35.32100,   0.00000, 0.00000, -90.00000, .streamdistance = 150);
+	CreateDynamicObject(19817, -1026.98499, -533.94916, 29.86150,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(19903, -1030.98523, -536.21033, 31.06060,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(1278, -1032.83191, -517.65833, 30.50862,   0.00000, 0.00000, 47.00000, .streamdistance = 150);
+	CreateDynamicObject(1278, -999.56451, -577.65729, 30.50860,   0.00000, 0.00000, -142.00000, .streamdistance = 150);
+	CreateDynamicObject(3928, -988.30957, -568.52179, 38.06040,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(3601, -1027.09778, -559.44879, 32.02045,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(3601, -1027.09973, -572.19153, 32.01850,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(3078, -996.05981, -519.50439, 31.55640,   0.00000, 90.00000, 180.00000, .streamdistance = 150);
+	CreateDynamicObject(3601, -988.60773, -569.74017, 30.22813,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(3078, -996.05603, -522.96582, 31.55640,   0.00000, 90.00000, 180.00000, .streamdistance = 150);
+	CreateDynamicObject(8673, -992.12042, -578.10931, 33.45630,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(8673, -1033.04407, -537.93292, 33.45630,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(19899, -1024.52588, -539.16443, 31.04800,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(8673, -1000.47668, -517.48767, 33.45630,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(8947, -988.58911, -529.74542, 39.86621,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(16001, -988.57080, -539.55249, 38.05640,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(13296, -1024.48657, -543.28638, 34.28431,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(18770, -1032.24243, -527.00604, -64.96630,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(9339, -1018.91003, -517.52454, 31.29310,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(8673, -1033.04211, -549.06848, 33.45630,   0.00000, 0.00000, 90.00000, .streamdistance = 150);
+	CreateDynamicObject(10281, -996.72968, -529.14093, 40.46030,   0.00000, -15.50000, -90.00000, .streamdistance = 150);
+	CreateDynamicObject(982, -1032.78760, -564.79041, 35.88107,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+	CreateDynamicObject(18650, -995.95404, -529.14020, 40.18115,   0.00000, 0.00000, 0.00000, .streamdistance = 150);
+
+	// Dario_Moretti - Order ID:N/A - Flag ID: Pending  - Maxknight
+	CreateDynamicObject(9339, 1768.09741, 404.56799, 18.60220,   -0.70000, 0.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(9339, 1779.83179, 390.41330, 18.75820,   0.00000, 0.00000, 84.30000, .streamdistance = 150);
+	CreateDynamicObject(9339, 1798.98511, 401.13599, 18.55620,   -0.50000, -0.10000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(9339, 1787.29553, 415.64429, 18.44220,   0.00000, -0.50000, -96.00000, .streamdistance = 150);
+	CreateDynamicObject(3648, 1780.07947, 407.28751, 20.69820,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
+	CreateDynamicObject(18765, 1794.75977, 409.85971, 16.03620,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
+	CreateDynamicObject(18766, 1795.84058, 395.03561, 17.92420,   91.20000, 90.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(18764, 1795.20898, 387.91977, 15.23220,   16.60000, -0.43000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(18764, 1795.57898, 392.11401, 15.86820,   0.60000, -0.43000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(3660, 1777.00281, 392.24161, 20.32200,   0.00000, 1.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(3660, 1783.07935, 391.70911, 20.21420,   0.00000, 1.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(11480, 1795.87146, 411.25620, 20.72000,   0.00000, 0.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(18766, 1796.71033, 404.97079, 18.02420,   90.00000, 90.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(19865, 1791.84875, 405.11737, 17.74600,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
+	CreateDynamicObject(893, 1769.18225, 394.33081, 18.66620,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
+	CreateDynamicObject(776, 1790.44678, 393.80920, 18.37820,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
+	CreateDynamicObject(1226, 1798.38586, 387.20999, 21.66420,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
+	CreateDynamicObject(780, 1771.19702, 415.11111, 17.96620,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
+	CreateDynamicObject(1281, 1782.70581, 395.28400, 19.30620,   0.00000, 0.30000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(19377, 1783.95569, 403.98129, 18.32400,   0.00000, -90.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(19377, 1779.96814, 404.33411, 18.45000,   0.00000, -90.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(11727, 1779.89246, 402.15079, 21.04620,   0.00000, 0.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(11727, 1785.97644, 405.94241, 21.04620,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
+	CreateDynamicObject(1481, 1779.61963, 394.91519, 19.23020,   0.00000, 0.00000, 127.00000, .streamdistance = 150);
+	CreateDynamicObject(9339, 1793.96228, 401.88181, 17.82420,   0.00000, 0.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(19865, 1789.84937, 410.80356, 17.74600,   0.00000, 0.00000, -5.00000, .streamdistance = 150);
+	CreateDynamicObject(9019, 1779.86682, 405.51630, 18.00000,   0.00000, 0.00000, 87.00000, .streamdistance = 150);
+	CreateDynamicObject(1343, 1786.54504, 406.74661, 19.07420,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
+	CreateDynamicObject(1280, 1776.29150, 402.01907, 18.93820,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
+	CreateDynamicObject(9339, 1782.08643, 416.18539, 18.44020,   0.00000, 0.50000, 84.00000, .streamdistance = 150);
+
 	// Trent Godfrey - Order ID:00861 - Flag ID: 99032  - Maxknight
 	CreateDynamicObject(19430, 692.38818, -1065.03577, 47.57940,   90.00000, 0.00000, 60.00000, .worldid = 0, .streamdistance = 100);
 	CreateDynamicObject(19430, 690.86359, -1067.65051, 47.57940,   90.00000, 0.00000, 60.00000, .worldid = 0, .streamdistance = 100);
