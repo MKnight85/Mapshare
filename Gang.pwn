@@ -2,6 +2,28 @@
 
 public OnFilterScriptInit()
 {
+	// SouthSide Locos - Added: 23 May 2017 - MaxKnight
+	CreateDynamicObject(1415, 2649.98120, -2013.46997, 12.66030,   0.00000, 0.00000, 180.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2764, 2638.45166, -2003.84949, 12.95230,   0.00000, 0.00000, -11.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1711, 2638.52173, -2005.82935, 12.50030,   0.00000, 0.00000, -200.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1711, 2638.15186, -2002.01782, 12.50030,   0.00000, 0.00000, 4.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1764, 2636.51367, -2004.84570, 12.53430,   0.00000, 0.00000, 91.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2102, 2636.12158, -2000.15918, 13.36430,   1.90000, 3.80000, 69.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(3593, 2634.75098, -2001.65466, 12.96030,   0.00000, 0.00000, -11.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1441, 2652.45605, -2013.50891, 13.17200,   0.00000, 0.00000, 178.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1368, 2646.48779, -1997.90430, 13.22800,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1349, 2639.72266, -2013.97437, 13.24000,   0.00000, 13.30000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1950, 2638.67456, -2004.27393, 13.53400,   0.00000, 0.00000, -265.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1509, 2638.47046, -2003.45605, 13.55200,   0.00000, 0.00000, -171.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1509, 2638.72314, -2003.90405, 13.55200,   0.00000, 0.00000, -120.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1509, 2638.15771, -2003.66919, 13.55200,   0.00000, 0.00000, 91.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1509, 2638.09253, -2003.97253, 13.55200,   0.00000, 0.00000, -25.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(1509, 2638.30737, -2003.44055, 13.55200,   0.00000, 0.00000, -265.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2837, 2638.58105, -2003.83594, 13.37400,   0.00000, 0.00000, -302.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(336, 2638.83789, -2001.70996, 13.61600,   -18.00000, 164.00000, -62.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2673, 2647.07983, -1998.34778, 12.63200,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	CreateDynamicObject(2675, 2638.68628, -2003.71082, 12.58600,   0.00000, 0.00000, 0.00000, .worldid = 0, .streamdistance = 150);
+	
 	// Melrose Street Goons - Added: 10 May 2017 - MaxKnight
 	CreateDynamicObject(3497, 2460.39990, -1424.40002, 27.90000,   0.00000, 0.00000, 90.00000, .worldid = 0, .streamdistance = 150);
 	CreateDynamicObject(1764, 2458.50000, -1392.90002, 23.00000,   0.00000, 0.00000, 314.00000, .worldid = 0, .streamdistance = 150);
