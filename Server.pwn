@@ -30895,6 +30895,10 @@ stock RemoveBuildingsFromPlayer(playerid)
 {
 	if(GetPVarInt(playerid, "BuildingRemoved") == 0)
 	{
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of c8fcbbc... Fort Coonolly
 		// Trent Godfrey - DBID:7797 - Order ID:696 - Approved by Justice - MaxKnight
 		RemoveBuildingForPlayer(playerid, 1283, 2200.8203, -1127.6641, 27.7109, 0.25); // Remainder of code is in PlayerInteriors
 

@@ -4,6 +4,7 @@
 public OnFilterScriptInit()
 
 {
+<<<<<<< HEAD
 
 	// Jack Leaf  - Flag ID: 101073 - Maxknight
 	CreateDynamicObject(19449, 1029.50305, -793.10272, 99.41870,   90.00000, 0.00000, 23.00000, .worldid = 0, .streamdistance = 150);
@@ -296,6 +297,8 @@ public OnFilterScriptInit()
 	CreateDynamicObject(1280, 1776.29150, 402.01907, 18.93820,   0.00000, 0.00000, 85.00000, .streamdistance = 150);
 	CreateDynamicObject(9339, 1782.08643, 416.18539, 18.44020,   0.00000, 0.50000, 84.00000, .streamdistance = 150);
 
+=======
+>>>>>>> parent of c8fcbbc... Fort Coonolly
 	// Trent Godfrey - Order ID:00861 - Flag ID: 99032  - Maxknight
 	CreateDynamicObject(19430, 692.38818, -1065.03577, 47.57940,   90.00000, 0.00000, 60.00000, .worldid = 0, .streamdistance = 100);
 	CreateDynamicObject(19430, 690.86359, -1067.65051, 47.57940,   90.00000, 0.00000, 60.00000, .worldid = 0, .streamdistance = 100);
